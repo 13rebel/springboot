@@ -1,0 +1,5 @@
+package com.jpaexample.entity;
+
+public class User {
+
+}
